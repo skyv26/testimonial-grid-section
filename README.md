@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://skyv26.github.io/testimonial-grid-section/)
 
 ## My process
 
@@ -44,11 +44,11 @@ Users should be able to:
 
 ### What I learned
 
-I practiced on Grid
+I practiced grid layout.
 
 ### Continued development
 
-Vanilla JS, React, Redux
+Vanilla JS, React, Redux, SASS, SCSS
 
 ## Author
 
