@@ -1,8 +1,3 @@
-### Screenshot
-
-![]()
-
-### Links
 
 - Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
 - Live Site URL: [Github Pages](https://skyv26.github.io/testimonial-grid-section/)
