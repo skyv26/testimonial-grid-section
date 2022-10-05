@@ -1,6 +1,6 @@
 
 - Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
-- Live Site URL: [Github Pages](https://skyv26.github.io/testimonial-grid-section/)
+- Live Site URL: [Github Pages]()
 
 <a name="readme-top"></a>
 
@@ -107,7 +107,7 @@ For more information on the importance of a professional README for your reposit
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Project](https://skyv26.github.io/testimonial-grid-section/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
