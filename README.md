@@ -7,16 +7,6 @@
 - Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
 - Live Site URL: [Github Pages](https://skyv26.github.io/testimonial-grid-section/)
 
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-
 ### What I learned
 
 I practiced grid layout.
