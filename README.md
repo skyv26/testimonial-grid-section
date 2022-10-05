@@ -2,13 +2,6 @@
 - Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
 - Live Site URL: [Github Pages](https://skyv26.github.io/testimonial-grid-section/)
 
-### What I learned
-
-I practiced grid layout.
-
-### Continued development
-
-Vanilla JS, React, Redux, SASS, SCSS
 
 ## Author
 
