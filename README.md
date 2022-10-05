@@ -91,7 +91,7 @@ For more information on the importance of a professional README for your reposit
   <img src="./images/screenshot.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>README Template</b></h3>
+  <h3><b>Testimonials Grid Section</b></h3>
 
 </div>
 
@@ -121,11 +121,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Testimonials Grid Section <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Testimonials grid section** is a vanilla js application built with HTML5, CSS3 using Grid to learn web development.
 
 ## 🛠 Built With <a name="built-with"></a>
 
