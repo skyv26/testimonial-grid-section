@@ -2,13 +2,6 @@
 - Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
 - Live Site URL: [Github Pages](https://skyv26.github.io/testimonial-grid-section/)
 
-
-## Author
-
-- LinkedIn - [@devaakash](https://www.linkedin.com/in/devaakash/)
-- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
-- Twitter - [@vrma_aakash](https://www.twitter.com/vrma_aakash)
-
 <a name="readme-top"></a>
 
 <!--
