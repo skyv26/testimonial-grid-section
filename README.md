@@ -1,5 +1,5 @@
 
-- Solution URL: [Github](https://github.com/skyv26/testimonial-grid-section)
+- Solution URL: [Github]()
 - Live Site URL: [Github Pages]()
 
 <a name="readme-top"></a>
@@ -127,14 +127,10 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd DESIRED_FOLDER
+  git clone https://github.com/skyv26/testimonial-grid-section.git
 ```
---->
 
 ### Install
 
