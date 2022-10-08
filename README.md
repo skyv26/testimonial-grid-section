@@ -151,19 +151,6 @@ Example command:
 Please use the VSCode and with the help of live
 server extension run it directly.
 ```
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 ### Deployment
 
 ```
