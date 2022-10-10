@@ -1,7 +1,3 @@
-
-- Solution URL: [Github]()
-- Live Site URL: [Github Pages]()
-
 <a name="readme-top"></a>
 
 <div align="center">
