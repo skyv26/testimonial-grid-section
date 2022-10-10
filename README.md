@@ -69,8 +69,6 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 Testimonials Grid Section <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Testimonials grid section** is a vanilla js application built with HTML5, CSS3 using Grid to learn web development.
 
 ## 🛠 Built With <a name="built-with"></a>
